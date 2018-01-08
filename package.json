@@ -1,0 +1,32 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "Mean stack application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navi25/mean-app.git"
+  },
+  "keywords": [
+    "mean",
+    "nodejs",
+    "emberjs",
+    "angularjs",
+    "mongodb"
+  ],
+  "author": "navi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navi25/mean-app/issues"
+  },
+  "homepage": "https://github.com/navi25/mean-app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  }
+}
